@@ -1,1 +1,1 @@
-The purpose of this project is to demonstrate how API works
+Project 0x15-API

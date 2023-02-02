@@ -1,1 +1,1 @@
-This is the forth part of The web stack debugging journey and this file is used to debug a bug wordpress site
+Project 0-strace_is_your_friend.pp

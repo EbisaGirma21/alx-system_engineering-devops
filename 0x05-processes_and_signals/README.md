@@ -1,1 +1,1 @@
-This Alx project to understand process and signals on bash
+# 0x05-processes_and_signals

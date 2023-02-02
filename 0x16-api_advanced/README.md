@@ -1,1 +1,1 @@
-This is Alx project to understand how to query an API using the python script
+Project 0x16. API advanced

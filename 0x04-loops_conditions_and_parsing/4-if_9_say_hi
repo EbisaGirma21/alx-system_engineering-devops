@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
-# Prints Hi if i is 9
-i=0
-while [ $i -le 9 ]
+# Displays 'Best School'. Displays Hi on the 9th iteration
+
+index=0
+
+while [ $index -lt 10 ]
 do
-	if [[ $i = 9 ]]
-		then echo "Hi"
-	fi
-	echo "Best School"
-	((i++))
+  if [ $index -eq 9 ]
+  then
+    echo "Hi"
+  fi
+  echo "Best School"
+  (( index++ ))
 done

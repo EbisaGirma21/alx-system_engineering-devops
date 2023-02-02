@@ -1,1 +1,2 @@
-This project is about configure our server to hava a firewall on it
+0x13-firewall
+Configuration settings to setup a firewall and allow specific port connections

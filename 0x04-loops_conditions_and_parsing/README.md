@@ -1,1 +1,1 @@
-This alx project to understand loops, conditions and parsing using bash scripting
+# 0x04-loops_conditions_and_parsing
