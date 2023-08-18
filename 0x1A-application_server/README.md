@@ -216,4 +216,4 @@ vagrant@ubuntu-xenial:~$ curl 35.231.193.217/api/v1/states
   - Upload your Nginx config as 5-app_server-nginx_config
 
 ## Author
-* **Robert Deprizio** - [BD20171998](https://github.com/BD20171998)
+* **Ebisa Girma** - [BD20171998](https://github.com/EbisaGirma21)
